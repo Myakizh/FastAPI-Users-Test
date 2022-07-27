@@ -1,2 +1,2 @@
 # FastAPI-Users-Test
-FastAPI Users Test
+працює навіть, за документацією зробив прост
