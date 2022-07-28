@@ -1,6 +1,7 @@
 FastAPI-Users-Test.code-workspace
 .vscode
 test.db
+test1.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
